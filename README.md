@@ -1,6 +1,3 @@
-# GRC-Portfolio
-Professional Governance, Risk &amp; Compliance Portfolio
-
 #  Governance, Risk & Compliance (GRC) Portfolio  
 ### By: Ewelina Kowalska-O’Neill  
 
