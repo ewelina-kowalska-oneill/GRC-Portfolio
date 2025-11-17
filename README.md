@@ -25,16 +25,17 @@ This repository showcases real-world GRC work I delivered across:
 
 ##  Repository Structure
 
-/incident-response
-/logging-monitoring
-/vulnerability-management
-/access-control
-/network-security
-/malware-risk
-/risk-assessment
-/third-party-risk
-/threat-intel-and-automation
-/incident-scenarios
+/incident-response  
+/logging-monitoring  
+/vulnerability-management  
+/access-control  
+/network-security  
+/malware-risk  
+/risk-assessment  
+/third-party-risk  
+/threat-intel-and-automation  
+/incident-scenarios  
+
 
 
 Each folder contains Markdown documentation, templates, evidence examples, and TRA structures demonstrating senior-level GRC capabilities.
