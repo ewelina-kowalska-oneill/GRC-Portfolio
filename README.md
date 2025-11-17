@@ -31,10 +31,10 @@ This repository showcases real-world GRC work I delivered across:
 /access-control
 /network-security
 /malware-risk
+/risk-assessment
 /third-party-risk
-/leak-monitoring-program
-/scenarios
-/docs
+/threat-intel-and-automation
+/incident-scenarios
 
 
 Each folder contains Markdown documentation, templates, evidence examples, and TRA structures demonstrating senior-level GRC capabilities.
