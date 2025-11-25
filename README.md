@@ -2,6 +2,16 @@
 ### By: **Ewelina Kowalska-O’Neill**  
  **ewelinakow@gmail.com**
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-GRC-blue?style=for-the-badge&logo=shield" alt="GRC Badge" />
+  <img src="https://img.shields.io/badge/Standard-PCI%20DSS%204.0-0A9396?style=for-the-badge" alt="PCI DSS 4.0 Badge" />
+  <img src="https://img.shields.io/badge/Standard-ISO%2027001-4F46E5?style=for-the-badge" alt="ISO 27001 Badge" />
+  <img src="https://img.shields.io/badge/Framework-NIST%20SP%20800--61-64748B?style=for-the-badge" alt="NIST SP 800-61 Badge" />
+  <img src="https://img.shields.io/badge/Domain-Risk%20Management-10B981?style=for-the-badge" alt="Risk Management Badge" />
+  <img src="https://img.shields.io/badge/Domain-Incident%20Response-F97316?style=for-the-badge" alt="Incident Response Badge" />
+</p>
+
+
 This repository presents a comprehensive collection of **professional Governance, Risk and Compliance artefacts**, developed across real GRC, security, and audit engagements.  
 All documents have been fully anonymised and rewritten to ensure no proprietary or company-specific information is disclosed.
 
