@@ -1,152 +1,192 @@
-#  Governance, Risk & Compliance (GRC) Portfolio  
-### By: Ewelina Kowalska-O’Neill  
+# Governance, Risk & Compliance (GRC) Portfolio  
+### By: **Ewelina Kowalska-O’Neill**  
+ **ewelinakow@gmail.com**
 
-This repository showcases real-world GRC work I delivered across:  
-✔ PCI DSS 4.0 compliance  
-✔ Targeted Risk Analyses (TRAs)  
-✔ Incident Response  
-✔ Logging & Monitoring  
-✔ Access Control  
-✔ Vulnerability Management  
-✔ Third-Party Risk  
-✔ Security Architecture & Network Segmentation  
-✔ Detection & Response Engineering  
-✔ Credential/Code Leak Monitoring Program  
-✔ OSINT Leak Detection Design  
-✔ Tabletop Exercises and Incident Scenarios  
+This repository presents a comprehensive collection of **professional Governance, Risk and Compliance artefacts**, developed across real GRC, security, and audit engagements.  
+All documents have been fully anonymised and rewritten to ensure no proprietary or company-specific information is disclosed.
 
-> All company-specific data has been fully removed.  
-> All documents represent real professional GRC work, rewritten as anonymised portfolio artefacts.
+The portfolio demonstrates capability in building, operationalising, and maturing GRC functions within engineering-driven organisations.
 
 ---
 
-##  Repository Structure
+#  Repository Structure
 
-/incident-response  
-/logging-monitoring  
-/vulnerability-management  
-/access-control  
-/network-security  
-/malware-risk  
-/risk-assessment  
-/third-party-risk  
-/threat-intel-and-automation  
-/incident-scenarios  
+```
+/incident-response
+/logging-monitoring
+/vulnerability-management
+/access-control
+/network-security
+/malware-risk
+/risk-assessment
+/third-party-risk
+/threat-intel-and-automation
+/incident-scenarios
+```
 
-
-
-Each folder contains Markdown documentation, templates, evidence examples, and TRA structures demonstrating senior-level GRC capabilities.
-
----
-
-##  Highlights of My Work in This Portfolio
-
-###  1. Complete PCI DSS 4.0 Targeted Risk Analysis Framework
-I developed over **20+ fully documented TRAs** including:
-- Log review frequency  
-- Password rotation schedules  
-- IR training frequency  
-- Non-high-risk vulnerability timelines  
-- Malware evaluation for low-risk systems  
-- Third-party monitoring  
+Each directory contains structured Markdown documentation, evidence examples, templates, workflows, and risk artefacts aligned with leading security frameworks.
 
 ---
 
-###  2. Incident Response Improvements  
-Includes:
-- Tabletop scenarios  
-- Training schedules  
-- Post-incident review templates  
-- IR plan updates tied to TRA outcomes  
+#  Core Domains Demonstrated
 
----
+### ✔ PCI DSS 4.0  
+- Dozens of detailed **Targeted Risk Analyses (TRAs)**  
+- Control justifications and evidence examples  
+- Implementation-ready templates for assessments and remediation  
+- Compliance-driven operational workflows
 
-###  3. Logging & Monitoring Enhancements  
-Includes:
-- TRA-driven log review frequency  
-- Log review checklists  
-- Mapping logs to risk levels  
-- SIEM data validation templates  
+### ✔ ISO 27001 & NIST Alignment  
+- Risk management documentation aligned with **ISO 27005**  
+- Incident response aligned with **NIST SP 800-61**  
+- Awareness and training aligned with **NIST SP 800-50 / 800-16**  
+- Governance aligned with **ISO 27001:2022 clauses 4–10**
 
----
+### ✔ Incident Response  
+- Full IR plan (anonymised)  
+- Situation reporting templates  
+- Evidence and chain-of-custody registers  
+- Response playbooks and tabletop exercises  
+- Incident scenarios designed for blue-team maturity
 
-###  4. Vulnerability Management Lifecycle  
-Includes:
-- Detailed TRA for medium/low-risk vulns  
-- Remediation/verification templates  
-- Risk acceptance form  
-- Asset owner responsibility workflows  
+### ✔ Logging & Monitoring  
+- SIEM configuration baselines  
+- TRA-driven log review frequency models  
+- Detection maturity templates  
+- Evidence samples for audits and assessments
 
----
+### ✔ Vulnerability Management  
+- Lifecycle documentation  
+- Risk acceptance templates  
+- Remediation tracking workflows  
+- Medium/low-risk vulnerability TRA model
 
-###  5. Access Control & Privileged Account Governance  
-Includes:
-- System access reviews  
-- TRA-driven password rotation schedules  
-- Privilege validation evidence samples  
+### ✔ Access Control  
+- Privileged access governance  
+- Access review methodologies  
+- Authentication and password policies  
+- TRA justification for access-related controls
 
----
+### ✔ Network Security & Segmentation  
+- Evidence diagram templates  
+- Segmentation design justification  
+- TRA samples for segmentation and firewall controls
 
-###  6. Network Security & Segmentation  
-Includes:
-- Diagram evidence templates  
-- TRA mapping sheet  
-- Stakeholder validation examples  
+### ✔ Malware & Endpoint Risk  
+- Low-risk system justification  
+- Anti-malware controls and validation  
+- Detection and response checklists
 
----
+### ✔ Third-Party Risk Management  
+- Due diligence and continuous monitoring templates  
+- Contract control checklists  
+- Third-party incident flow examples  
+- Evidence samples for PCI DSS Requirement 12.8
 
-###  7. Malware Risk Validation (Low-Risk Systems)  
-Includes:
-- Inventory  
-- Classification justification  
-- Checklist  
-- Evidence templates  
+### ✔ Threat Intelligence & Automation  
+- OSINT leak monitoring workflows  
+- Automated credential/code leak detection designs  
+- API-driven monitoring logic  
+- High-level integration outline for SIEM and Wazuh
 
----
-
-###  8. Third-Party Risk Scenarios & Evidence  
-Includes:
-- SIEM log ingestion validation  
-- Contract clause recommendations  
-- Third-party breach responsibility framework  
-
----
-
-###  9. Credential & Code Leak Monitoring Program  
-A full OSINT-based leak monitoring ecosystem:
-- Google Custom Search API setup  
-- Self-hosted OSINT stack (SpiderFoot, PasteHunter, Shhgit)  
-- Alerting workflow  
-- Wazuh integration proposal  
-- Centralised monitoring dashboard design  
-
----
-
-###  10. Fully Authored GRC Tabletop Exercise Library  
-Includes:
-- Phishing → credential theft  
+### ✔ Tabletop Exercise Library  
+Fully authored scenarios including:  
+- Targeted phishing → credential theft  
+- VPN compromise → lateral movement  
+- Third-party SIEM monitoring failure  
 - API misconfiguration → data exposure  
-- VPN compromise → server shutdown loop  
-- Third-party SIEM monitoring failure (custom-created scenario)
 
 ---
 
-##  Purpose of this Portfolio
-This repository demonstrates hands-on experience with:
-- Designing compliance solutions  
-- Implementing TRA-based security controls  
-- Closing PCI DSS 4.0 gaps  
-- Conducting GRC investigations  
-- Strengthening organisational security governance  
-- Creating evidence auditors expect during assessments  
+#  Highlights of Professional Work Represented
+
+### **1. PCI DSS 4.0 Targeted Risk Analysis Framework (20+ TRAs)**  
+Covers: log reviews, IR training, password rotation, malware evaluation, segmentation gaps, vendor monitoring, and more.  
+These TRAs reflect real work performed to ensure compliance while maintaining operational feasibility.
 
 ---
 
-##  License  
-This repository contains **original work authored by me**, not bound by company NDAs, as all sensitive details have been removed or replaced with generic references.
+### **2. Full Incident Response Program Components**  
+- NIST-aligned IR plan  
+- Operational SITREPs  
+- Playbooks  
+- Templates for investigation and reporting  
+- Tabletop exercises based on real-world scenarios  
 
 ---
 
-##  Contact  
-If you'd like to reach out:  
-📧 ewelinakow@gmail.com  
+### **3. End-to-End Logging & Monitoring Governance**  
+- Log ingestion verification templates  
+- SIEM validation steps  
+- Mapped log types to risk levels  
+- TRA-driven evidence for auditors  
+
+---
+
+### **4. Vulnerability Lifecycle with Governance Controls**  
+- Medium & low-risk timing justification  
+- Acceptance workflows  
+- Patch prioritisation matrix  
+- Auditor-ready evidence structures  
+
+---
+
+### **5. Privileged Access Governance**  
+- TRA justification for password & session controls  
+- Access review evidence  
+- Privilege validation workflows  
+
+---
+
+### **6. Network Segmentation Evidence**  
+- Templates for segmentation diagrams  
+- Traffic mapping justification  
+- Firewall governance controls  
+
+---
+
+### **7. Third-Party Risk Governance**  
+- Risk scoring  
+- Due diligence and SLA monitoring  
+- Contract clause recommendations  
+- Third-party breach handling flows  
+
+---
+
+### **8. OSINT-Based Credential & Code Leak Monitoring Program**  
+End-to-end monitoring model including:  
+- Google Custom Search API integration  
+- Self-hosted OSINT ecosystem (Shhgit, SpiderFoot, PasteHunter)  
+- Alert routing and follow-up handling  
+- Integration concept for Wazuh/SIEM  
+
+---
+
+#  Purpose of This Repository
+
+This is an anonymised portfolio designed to demonstrate **senior GRC capability**, including:
+
+- Designing and implementing scalable GRC frameworks  
+- Closing PCI DSS 4.0 gaps with evidence  
+- Executing deep-dive risk analyses (TRAs)  
+- Running structured incident response programs  
+- Building technical proof for auditors and stakeholders  
+- Developing operational governance for software organisations  
+- Designing security processes that work in real-life engineering environments  
+
+---
+
+#  License
+
+All content is **original work** authored by **Ewelina Kowalska-O’Neill**.  
+No proprietary or confidential company information is included.  
+All artefacts have been rewritten, generalised, and sanitised.
+
+---
+
+#  Contact
+
+For professional enquiries or collaboration:  
+ **ewelinakow@gmail.com**
+
+---
