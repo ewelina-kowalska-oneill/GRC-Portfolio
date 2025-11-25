@@ -1,0 +1,50 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Governance, Risk & Compliance Portfolio</title>
+  <desc id="desc">Professional GRC portfolio by Ewelina Kowalska-O’Neill</desc>
+
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="260" fill="url(#bg)" rx="20" ry="20"/>
+
+  <!-- Subtle border -->
+  <rect x="1.5" y="1.5" width="1197" height="257" fill="none" stroke="#1f2937" stroke-width="3" rx="18" ry="18"/>
+
+  <!-- Left accent bar -->
+  <rect x="60" y="60" width="6" height="140" fill="#10b981" rx="3"/>
+
+  <!-- Main title -->
+  <text x="90" y="115" fill="#e5e7eb" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="30" font-weight="600" letter-spacing="1">
+    Governance, Risk &amp; Compliance (GRC) Portfolio
+  </text>
+
+  <!-- Subtitle -->
+  <text x="90" y="150" fill="#9ca3af" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="18">
+    PCI DSS 4.0 · ISO 27001 · NIST · Risk Management · Incident Response
+  </text>
+
+  <!-- Author line -->
+  <text x="90" y="190" fill="#6b7280" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="15">
+    By: Ewelina Kowalska-O’Neill · ewelinakow@gmail.com
+  </text>
+
+  <!-- Small shield icon on the right -->
+  <g transform="translate(980,70)">
+    <path d="M70 0L20 16v46c0 28 19 54 50 64c31-10 50-36 50-64V16L70 0z" fill="#111827" stroke="#10b981" stroke-width="3"/>
+    <path d="M70 20L40 30v30c0 18 12 35 30 42c18-7 30-24 30-42V30L70 20z" fill="#0f172a"/>
+    <text x="70" y="60" text-anchor="middle" fill="#d1d5db"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+          font-size="15" font-weight="600">
+      GRC
+    </text>
+  </g>
+</svg>
